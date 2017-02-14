@@ -1,0 +1,2 @@
+# cos
+mój pierwszy program
